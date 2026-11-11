@@ -1,4 +1,4 @@
-# Hola, soy José Villarreal García 👋
+# Hola, soy José Villarreal García
 
 **Ingeniero en Biosistemas** enfocado en **análisis de datos, automatización de procesos e IA** con el ecosistema Microsoft.
 Actualmente trabajo como especialista de Calidad y Procesos en una consultora Microsoft Partner (Dynamics 365, Power Platform, Fabric y Copilot) y estoy construyendo mi camino hacia **Data Analyst → Data & AI Engineer**.
@@ -7,20 +7,20 @@ Actualmente trabajo como especialista de Calidad y Procesos en una consultora Mi
 
 ---
 
-## 🎯 En qué estoy trabajando
+## En qué estoy trabajando
 
-- 📊 Dashboards y modelos de datos en **Power BI** (modelado estrella, DAX)
-- 🤖 Automatización de procesos con **Power Platform**, Python e IA generativa
-- 🌱 Proyectos de datos aplicados al agro y al monitoreo ambiental (IoT + análisis en R)
+- Dashboards y modelos de datos en **Power BI** (modelado estrella, DAX)
+- Automatización de procesos con **Power Platform**, Python e IA generativa
+- Proyectos de datos aplicados al agro y al monitoreo ambiental (IoT + análisis en R)
 
-## 🎓 Certificaciones
+## Certificaciones
 
 | Certificación | Estado |
 |---|---|
-| **PL-300** · Microsoft Power BI Data Analyst | 📚 En preparación |
-| **AB-900** · Microsoft 365 Copilot and Agent Administration Fundamentals | 📚 En estudio |
+| **PL-300** · Microsoft Power BI Data Analyst | En preparación |
+| **AB-900** · Microsoft 365 Copilot and Agent Administration Fundamentals | En estudio |
 
-## 🛠️ Stack
+## Stack
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
@@ -33,7 +33,7 @@ Actualmente trabajo como especialista de Calidad y Procesos en una consultora Mi
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino%20%2F%20ESP32-00979D?logo=arduino&logoColor=white)
 
-## 📁 Proyectos destacados
+## Proyectos destacados
 
 | Proyecto | Qué hace | Tecnologías |
 |---|---|---|
@@ -41,6 +41,6 @@ Actualmente trabajo como especialista de Calidad y Procesos en una consultora Mi
 | [Monitoreo de la roya del café (TFG)](https://github.com/JoseVilla97/Repositorio_TFG_Roya_sensores) | Red de sensores IoT para monitorear condiciones asociadas a la roya en Costa Rica, con calibración y análisis exploratorio | ESP32, C++, R |
 | [registro-facturas](https://github.com/JoseVilla97/registro-facturas) | App para registrar facturas y analizar montos por fecha y comercio | React, TypeScript, Tailwind |
 
-## 🗺️ Ruta de aprendizaje
+## Ruta de aprendizaje
 
 `Excel / SQL` → `Power BI (PL-300)` → `Python para datos` → `Microsoft Fabric / ingeniería de datos` → `IA y agentes (AB-900)`

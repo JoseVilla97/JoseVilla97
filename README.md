@@ -1,70 +1,46 @@
-<h1 align="center">Hi 👋, I'm Jose Villarreal G</h1>
-<h3 align="center">Engineering student , UCR🌟.</h3>
+# Hola, soy José Villarreal García 👋
 
-<br>
+**Ingeniero en Biosistemas** enfocado en **análisis de datos, automatización de procesos e IA** con el ecosistema Microsoft.
+Actualmente trabajo como especialista de Calidad y Procesos en una consultora Microsoft Partner (Dynamics 365, Power Platform, Fabric y Copilot) y estoy construyendo mi camino hacia **Data Analyst → Data & AI Engineer**.
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
-  </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-José%20Villarreal-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-villarreal-garcia-802143183/)
 
-<br>
+---
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+## 🎯 En qué estoy trabajando
 
+- 📊 Dashboards y modelos de datos en **Power BI** (modelado estrella, DAX)
+- 🤖 Automatización de procesos con **Power Platform**, Python e IA generativa
+- 🌱 Proyectos de datos aplicados al agro y al monitoreo ambiental (IoT + análisis en R)
 
-- 🌱 I’m currently learning Data Analysiss and other programming languages
+## 🎓 Certificaciones
 
-- 📫 How to reach me **jquiricovilla@gmail.com
-**
+| Certificación | Estado |
+|---|---|
+| **PL-300** · Microsoft Power BI Data Analyst | 📚 En preparación |
+| **AB-900** · Microsoft 365 Copilot and Agent Administration Fundamentals | 📚 En estudio |
 
-- ⚡ Fun fact :- Food, Music and sports🎵 are the reasons to live.
+## 🛠️ Stack
 
-<br> 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![Power Platform](https://img.shields.io/badge/Power%20Platform-742774?logo=microsoft&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?logo=microsoft&logoColor=white)
+![Copilot](https://img.shields.io/badge/Copilot-000000?logo=githubcopilot&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino%20%2F%20ESP32-00979D?logo=arduino&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/jose-villarreal-garcia-802143183/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Jose Villarreal" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/josequirico.villarrealgarcia/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="Jose Villarreal" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
- <a href="https://x.com/josevil1820"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="adampithewan" height="30" width="40" /></a>
-</p>
+## 📁 Proyectos destacados
 
-<br>
+| Proyecto | Qué hace | Tecnologías |
+|---|---|---|
+| [powerbi-support-ticket-dashboard](https://github.com/JoseVilla97/powerbi-support-ticket-dashboard) | Dashboard de tickets de soporte: volumen, tiempos de atención y SLA | Power BI, DAX, Python |
+| [Monitoreo de la roya del café (TFG)](https://github.com/JoseVilla97/Repositorio_TFG_Roya_sensores) | Red de sensores IoT para monitorear condiciones asociadas a la roya en Costa Rica, con calibración y análisis exploratorio | ESP32, C++, R |
+| [registro-facturas](https://github.com/JoseVilla97/registro-facturas) | App para registrar facturas y analizar montos por fecha y comercio | React, TypeScript, Tailwind |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
-      height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-      alt="pandas" width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a> </p>
+## 🗺️ Ruta de aprendizaje
 
-<br>
-
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseVilla97-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="jose" 
-    bg_color=#808080/></p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-[Jose_Villa](https://github.com/JoseVilla97)
+`Excel / SQL` → `Power BI (PL-300)` → `Python para datos` → `Microsoft Fabric / ingeniería de datos` → `IA y agentes (AB-900)`

@@ -1,7 +1,7 @@
 # Hola, soy José Villarreal García
 
 **Ingeniero en Biosistemas** enfocado en **análisis de datos, automatización de procesos e IA** con el ecosistema Microsoft.
-Actualmente trabajo como Specialist — Customer Service & Operational Excellencede para en una consultora Microsoft Partner (Dynamics 365, Power Platform, Fabric y Copilot) y estoy construyendo mi camino hacia **Data Analyst → Data & AI Engineer**.
+Actualmente trabajo como Specialist — Customer Service & Operational Excellence para en una consultora Microsoft Partner (Dynamics 365, Power Platform, Fabric y Copilot) y estoy construyendo mi camino hacia **Data Analyst → Data & AI Engineer**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-José%20Villarreal-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-villarreal-garcia-802143183/)
 
